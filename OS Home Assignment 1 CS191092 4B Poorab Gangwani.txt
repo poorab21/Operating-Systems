@@ -1,0 +1,44 @@
+Cluster Computing 
+
+it is a system in which a group of machines that are virtually or geographically separated and that work together to provide the same service
+or application to clients and can be viewed as a single system.
+The idea is that if any computer in a cluster crashes then the rest of the computers in the cluster can take over.
+
+advantages:
+1) user friendly
+2) high availability of resources
+3) elimination of single point of failure(which provides redundancy in the data access)
+
+Disadvantages:
+1) Not suitable for business and commercial purposes.
+2) requires specialized knowledge of systems.
+
+Grid Computing
+
+it is a type of system that enables the sharing,selection and aggregation of resources distributed across multiple administrative domain.
+They consist of:
+1) Control Node
+2) Provider
+3) User
+it contains features such as resource coordination which provides aggregated computing capabilities.
+
+advantages:
+1) They are modular.
+2) They dont have single point of failure.
+
+disadvantages:
+1) Requires fast interconnect between it's resources.
+2) May require large SMP.
+
+Cloud Computing
+
+it is a system that provides on-demand availability of computer resources and centrally managed distribution of public cloud services.
+it works as a distributed system and has modular working.
+
+advantages:
+1) High Speed
+2) Once data is stored in cloud,it is easier to get the back-up and recovery of that data.
+
+Disadvantages:
+1) chances of data being accessed by outsiders.
+2) internet connectivity is required. 
